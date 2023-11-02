@@ -1,0 +1,66 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Tilt Neon', sans-serif;
+}
+
+body {
+    background: #00000096;
+    /* background: aqua; */
+    font-family: 'Tilt Neon', sans-serif;
+}
+
+.main-head {
+    text-align: center;
+    margin-top: 30px;
+    color: azure;
+    letter-spacing: 2px;
+    font-size: 50px;
+    
+}
+
+.form {
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.input {
+    padding: 11px 8px 8px 10px;
+    font-size: 17px;
+    border-radius: 10px 0px 0px 10px;
+    width: 400px;
+    border: none;
+    outline: none;
+    
+
+
+}
+
+.button {
+    border: none;
+    border-radius: 0px 10px 10px 0px;
+    padding: 11px 20px 8px 20px;
+    font-size: 17px;
+
+}
+.container{
+    /* text-align: center; */
+    background-color: white;
+    margin: 30px 435px 0px 435px;
+    border-radius: 15px;
+    padding: 10px;
+    
+}
+.icon{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.img{
+    width: 100px;
+}
+.temp{
+    font-size: 50px;
+}
